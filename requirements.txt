@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+matminer
+joblib
+# Optional: pip install jarvis-tools  (enables JARVIS-DFT loader)
+jarvis-tools
